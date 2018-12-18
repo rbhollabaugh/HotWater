@@ -1,0 +1,50 @@
+C1	.1	
+C2	10uf	
+C3	10uf	
+C4	.1	
+C5	.1	
+D1	LED	
+F1	fuse	
+F2	200ma fuse	
+J1	Sensor Gnd	
+J2	Sensor Data	
+J3	Sensor +5V	
+J4	LCD	
+J5	EndSwitch	
+J6	HeatEnabled	
+J7	24Volts DC	
+J8	ICSP	
+J9	LCD	
+J10	Clock	
+J11	ICSP	
+J12	Outputs to relay brd	
+J13	Ext Buzzer	
+R1	10k	
+R2	220	
+R3	470	
+R4	150	
+R5	1.5k	
+R6	150	
+R7	150	
+R8	150	
+R9	150	
+R10	150	
+R11	150	
+R12	150	
+R13	150	
+R14	150	
+R15	1.5k	
+SP1	Buzzer	
+SW1	Reset	
+SW2	Back	
+SW3	Up	
+SW4	Down	
+SW5	Save/Select	
+SW6	On/Off	
+SW7	Buzzer on/off	
+U1	AtMega328-20	
+U2	LM340T5	
+U3	UA78M33	
+U4	WIZ811MJ	
+U5	2501 opto coupler	
+U6	AtMega168-20	

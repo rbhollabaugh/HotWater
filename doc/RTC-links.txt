@@ -1,0 +1,3 @@
+https://forum.pjrc.com/threads/24853-teensy-2-0-and-timer2-with-32khz-crystals
+https://www.pjrc.com/teensy/td_libs_MsTimer2.html
+

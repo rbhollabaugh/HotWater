@@ -1,0 +1,7 @@
+We would want to figure out more about your situation before ordering parts. Ideally we would want to check your heating elements with a multimeter for ground faults. 
+The heating element is that copper cylinder. It has 4-6 'legs' coming into the bottom of it. You would set a multimeter to Ohms or Resistance. Then you would put one of your multimeter paddles / leads to one of the legs, right where you would put a screwdriver, and then your other paddle / lead to the actual copper tanklet itself. You'd be looking for any resistance readings. If you see anything other than 'OL' or 0 for resistance, then you have a ground fault. 
+
+By the way, be sure to turn ALL the power off to your water heater before testing it with your multimeter for resistance. 
+Also, hit the reset button before testing for resistance. Turn the power off to the unit before hitting the reset button. 
+
+If you do not find a ground fault in the heating element and the water heater is still tripping off, then there very well might be a fault of some sort in your computer board.

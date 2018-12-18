@@ -1,0 +1,6 @@
+12/18/2011
+This version works in Arduino0023.
+It's the last version for 0023 ad the Arduino-1.0
+version has been working fine.
+Changes in the Ethernet and UDP libs for Arduino 1.0
+make this version obsolete.
